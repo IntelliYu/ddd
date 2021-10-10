@@ -9,3 +9,10 @@
 - Option 3
 
 *Italic* **Bold**
+
+
+|Name|Age|
+|---|---|
+|xiao hong|22|
+|xiao ming|23|
+
